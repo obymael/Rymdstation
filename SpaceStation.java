@@ -2,3 +2,10 @@
  * - själva rymdstationen som håller reda på sektionerna 
  * - samt vad som händer på stationen
  */
+
+public class SpaceStation {
+
+    int alarmLevel;
+    int damage;
+
+}
